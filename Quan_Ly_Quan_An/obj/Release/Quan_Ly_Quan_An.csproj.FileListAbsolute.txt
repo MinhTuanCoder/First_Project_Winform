@@ -1,0 +1,12 @@
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\bin\Release\Quan_Ly_Quan_An.exe.config
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\bin\Release\Quan_Ly_Quan_An.exe
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\bin\Release\Quan_Ly_Quan_An.pdb
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.csproj.AssemblyReference.cache
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.csproj.SuggestedBindingRedirects.cache
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.Form1.resources
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.GoiMon.resources
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.Properties.Resources.resources
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.csproj.GenerateResource.cache
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.exe
+E:\Lap_Trinh_Winform\Project_QLQA\Quan_Ly_Quan_An\obj\Release\Quan_Ly_Quan_An.pdb
